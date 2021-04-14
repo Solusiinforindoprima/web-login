@@ -1,5 +1,6 @@
 Membuat web informasi
 menyiapkan content
+  ^ menyiapkan database
 membuat GUI
   ^dengan framework laravel
   ^react
